@@ -1,2 +1,4 @@
-# jenkins
-Atelier Jenkins
+# Atelier Jenkins
+Brice R.
+Benjamin B.
+Tudor C.
